@@ -1,12 +1,25 @@
-p{
+h1{
     color: gray;
+    text-align: center;
+}
+
+
+
+p{
+    color: black;
     margin-left:10px;
     font-size: 15px;
+    
 }
 img{
-    margin:auto
+    display: block;
+    margin: auto;
+    border-radius: 15px;
 }
 body{
     background-color: blue;
 }
 
+input{
+    border-radius: 10px;
+}
