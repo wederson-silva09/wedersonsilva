@@ -30,4 +30,7 @@ input{
 }
 button{
     margin-left: 30px;
+    color: green;
+    border-bottom: 10px;
+
 }
